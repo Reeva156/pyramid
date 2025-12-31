@@ -37,7 +37,7 @@ int main(){
             {
                 printf("  ");
             }
-            for(int k=5;k>=y;k--)
+            for(int k=y;k<=5;k++)
             {
                 printf("%d ",k);
             }
@@ -139,5 +139,6 @@ int main(){
                 printf("\n");
         }
 }
+
 
 
